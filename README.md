@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Descripción
+##  Descripción
 Este proyecto corresponde al **Parcial I de POE**.  
 Se implementa un sistema de **Reserva de Boletos de Cine** en Windows Forms (C# .NET Framework).
 
@@ -21,23 +21,19 @@ El formulario principal (`frmReservas`) permite:
 
 ---
 
-## ⚙️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 - C# (Windows Forms, .NET Framework 4.7.2)  
 - Visual Studio 2022  
 - GitHub para control de versiones  
 
 ---
 
-## 📸 Captura de ejemplo
-*(Aquí puedes pegar una imagen de tu programa en ejecución, con una reserva cargada en el DataGridView)*  
 
----
-
-## 🚀 Ejecución
+##  Ejecución
 1. Clonar el repositorio o descargar ZIP.  
 2. Abrir el proyecto en **Visual Studio 2022**.  
 3. Compilar y ejecutar (`Start`).  
 
 ---
 
-## 📂 Estructura del proyecto
+
